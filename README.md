@@ -5,7 +5,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -13,10 +13,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ashish-kohli.github.io/3-column-preview-card-component/)
 
 
 ### Built with
@@ -27,4 +26,4 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - CSS Grid
 
 
-- Frontend Mentor - [@ASHISH-KOHLI]
+##Frontend Mentor - [@ASHISH-KOHLI]
